@@ -5,8 +5,8 @@ Email: [zhanar.baizhanova@outlook.com](mailto:zhanar.baizhanova@outlook.com)
 LinkedIn profile: [linkedin.com/in/zhanarbaizhanova](http://linkedin.com/in/zhanarbaizhanova)  
 Cell #: 425-999-7269  
 ### OBJECTIVE  
-Result-oriented and self-motivated with experience in process improvement and marketing in a manufacturing environment, proven ability to coordinate projects from inception to completion, I am seeking to leverage my unique mix of technical and management skills as a Technical Program Manager LEAP candidate at Microsoft.   
-###SKILLS
+Result-oriented and self-motivated with experience in process improvement and marketing in a manufacturing environment, proven ability to coordinate projects from inception to completion, I am seeking to leverage my unique mix of technical and management skills as a Technical Program Manager LEAP candidate at Microsoft.      
+### SKILLS
 Data analysis and visualization with R, Excel, SQL, Power BI   
 Programming languages: beginner in Python  
 ### EDUCATION AND CERTIFICATIONS   
@@ -49,12 +49,12 @@ __Marketing and Sales Department Specialist__, November, 2010-June, 2015, full-t
 * Brand development:  
 	* Successfully managed work between senior executive team and external consultants and vendors keeping the project moving smoothly from initiation to closure. 
 	* Communicated requirements, project status and schedules.  
-	* Demonstrated creativity and open mindedness in developing the identity and the ìfaceî of the company.   
+	* Demonstrated creativity and open mindedness in developing the identity and the ‚Äúface‚Äù of the company.   
 * International Exhibition of Railway Engineering and Technologies EXPO 1520, Moscow, 2011:  
 	* Coordinated joint participation in major industry level exhibition with a strategic business partner (General Electric Transportation).  
 * Customer and Stakeholder Communication:  
 	* Communicated effectively and professionally with prospective and current customers to gain a complete understanding of their complex needs and expectations;  
-	* Successfully advocated companyís interests while working with diverse group of vendors and stakeholders.  
+	* Successfully advocated company‚Äôs interests while working with diverse group of vendors and stakeholders.  
 * Interdepartmental communication and reporting: 
 	* Collaborated and communicated with all departments across the company and headquarters to complete various tasks and projects.  
 	* Served as a company secretary for executive level meetings, developed reports and presentations for executives within the organization and for headquarters.  
@@ -73,7 +73,7 @@ __Quality Management System Engineer__, February-November, 2010, full-time
 
 _Texas A&M University, Mays School of Business, Department of Information and Operations Management, College Station, TX_  
 
-__Graduate Teaching Assistant__ (Operations Management undergraduate course), August, 2009 ñ January, 2010, part-time    
+__Graduate Teaching Assistant__ (Operations Management undergraduate course), August, 2009 ‚Äì January, 2010, part-time    
 
 * Assisted in teaching and evaluation for over 100 undergraduate students.   
 * Entered and maintained grades and records.   
